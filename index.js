@@ -1,0 +1,1 @@
+webpackJsonp([0],{"./src/index.js":function(s,n,e){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var c=e("./src/main.scss");e.n(c);console.log("in index.js")},"./src/main.scss":function(s,n){}},["./src/index.js"]);
