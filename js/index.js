@@ -1,0 +1,1 @@
+webpackJsonp([0], { "docs/index.js": function (s, n, e) { "use strict"; Object.defineProperty(n, "__esModule", { value: !0 }); var c = e("docs/main.scss"); e.n(c); console.log("in index.js") }, "docs/main.scss": function (s, n) { } }, ["docs/index.js"]);
